@@ -1,7 +1,7 @@
 ## 👋 Oi, meu nome é Shinara Jardim.
 
 - 🌱 Desenvolvedora iniciante
-- 😄 Estudando para me tornar fullstack
+- 😄 Estudando back-end
 
  <div>
   <a href="https://github.com/GardenShinara">
