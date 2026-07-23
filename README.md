@@ -1,8 +1,5 @@
 ## 👋 Oi, meu nome é Shinara Jardim.
 
-- 🌱 Desenvolvedora iniciante
-- 😄 Estudando back-end
-
  <div>
   <a href="https://github.com/GardenShinara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GardenShinara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
