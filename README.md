@@ -1,7 +1,4 @@
-## 👋 Oi, meu nome é Shinara Jardim.
-
-- 🌱 Desenvolvedora iniciante
-- 😄 Estudando back-end
+## 👋 Oi, meu nome é Shinara Jardim.😄
 
   <div>  
   <a href = "mailto:shi.nara@hotmail."><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
